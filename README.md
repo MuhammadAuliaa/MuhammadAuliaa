@@ -70,8 +70,6 @@ arise.
 
 [<img align="left" alt="MySQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png?20100317150552" style="padding-right:10px;" />][webdev]
-[<img align="left" alt="Looker Studio" width="30px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALooker.svg&psig=AOvVaw0odxnv4Wh9fk5iPmjC2WhW&ust=1726132634495000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPjeoazHuogDFQAAAAAdAAAAABAE" style="padding-right:10px;" />][webdev]
-file:///Users/muhammadadeaulia/Downloads/looker-icon-svgrepo-com.svg
 [<img align="left" alt="Excel" width="30px" src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/a8/fd/5a/a8fd5a84-c6f1-355f-3b9f-6e86598efaa3/XCEL.png/1200x630bb.png" style="padding-right:10px;" />][webdev]
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
@@ -81,8 +79,8 @@ file:///Users/muhammadadeaulia/Downloads/looker-icon-svgrepo-com.svg
 
 ---
 ### Connect with me:
-
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
+-
+[![Youtube](./img/youtube-light.svg)](https://www.youtube.com/@DeinonyCode/videos)
 [![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
