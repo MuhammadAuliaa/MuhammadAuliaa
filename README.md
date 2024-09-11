@@ -74,13 +74,13 @@ arise.
 [<img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />][webdev]
 [<img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />][webdev]
 
-<br />
-<br />
+<br/>
+<br/>
 
 ---
 ### Connect with me:
 -
-[![Youtube]](https://www.youtube.com/@DeinonyCode/videos)
-[![Instagram]](https://www.instagram.com/muhammadauliaa_/)
+[Youtube](https://www.youtube.com/@DeinonyCode/videos)
+[Instagram](https://www.instagram.com/muhammadauliaa_/)
 &nbsp;&nbsp;
-[![Linkedin]]([https://twitter.com/vincentwwidyan#gh-light-mode-only](https://www.linkedin.com/in/muhammad-aulia-6a7491215/))
+[Linkedin]([https://twitter.com/vincentwwidyan#gh-light-mode-only](https://www.linkedin.com/in/muhammad-aulia-6a7491215/))
