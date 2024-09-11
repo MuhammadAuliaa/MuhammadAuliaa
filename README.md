@@ -1,6 +1,6 @@
-# Hi there, I'm Muhammad Aulia - Aul [deinony]([https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://www.youtube.com/@DeinonyCode/videos)) 👋
+# Hi there, I'm Muhammad Aulia - Aul [Portfolio]([[https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://www.youtube.com/@DeinonyCode/videos](https://muhammadauliaa.github.io/myPortfolio/))) 👋
 ## About me:
-- 🔭 I’m currently working as Data Engineer
+- ✉️ I’m currently working as Data Engineer
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 💬 Ask me about anything
 - 📫 How to reach me: adheaulia9578@gmail.com
@@ -8,21 +8,36 @@
 ## Education:
 
 #### 1. [Universitas Teknologi Yogyakarta](https://uty.ac.id/) | Bachelor of Informatics | Yogyakarta `2020-2024`
-   - Asistant Laboratorium of Basic Electronics
-   - Asistant Laboratorium of Installation
-   - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
-   - Chief of Rohkris
+   - Relevant Courses: Data Science, Data Warehouse & Data Mining, Coding & Machine Learning, Text Processing,
+Neural Networks & Deep Learning, Digital Image Processing, Soft Computing, AI Application development.
+   - Completing the Informatics Capstone Project by creating a program “Analisis Sentiment Review Product
+Online Shop Menggunakan Algoritma Naive Bayes Classifier”.
+   - Publishing a scientific paper titled with the research titled “Analisis Perbandingan Algoritma SVM, Naïve
+Bayes, dan Perceptron untuk Analisis Sentimen Ulasan Produk Tokopedia”.
+   - Completing the Final Project by creating a program “Analisis Sentimen Ulasan Produk Tokopedia
+Menggunakan Algoritma Naïve Bayes Classifier : Studi Kasus Toko Pengrajin.com”.
+   - Participating in the development of Copyright (Intellectual Property) projects.
+   - Participating as a teaching assistant for courses in Big Data Analytics, Coding & Machine Learning, Machine
+Learning, Object-Oriented Programming, and Information Technology Development.
+ #### 2. [SMA N 1 Mempawah Hilir](https://sman1mpw.sch.id/) | IPS | Mempawah `2017-2020`
+   - Chief of Paskibraka
 
 ## Work Experience:
-#### 1. [PT. Huawei Tech Investment](https://www.huawei.com) | Project Controller | Pontianak `Dec'2020 - Now`
-   - Integrate Accuracy Plan, Master Plan, HR Plan, and Recource Plan
-   - Responsible to improve and realize project delivery as timeline
-   - Create Automation using Python and VBA Excel for day-to-day routine
-#### 2. [PLN UP2D Purwokerto](https://portal.pln.co.id) | Student Intern | Purwokerto `2019-2019`
-   - Manage to update CAD of distribution lines using AutoCAD
-   - Manage to recap fault in distribution network
-   - Research on Maintenance of 20 kV Cubicle in Pemalang
+#### 1. [PT Inovasi Niaga Integrasi (Waizly)](https://waizly.id/) | Data Engineer | Tangerang `Aug'2024 - Now`
+   - ETL (Pentaho): Managing the Extract, Transform, Load process using Pentaho to ensure clean and ready-touse product data in the data warehouse.
+   - PostgreSQL: Storing and managing product data in a structured and easily accessible database for analysis.
+   - Database Designing: Designing optimal database schemas for efficient querying and data analysis of product
+warehouses.
+   - Cloud AWS: Using AWS to securely manage and store data with scalability and integration.
+   - Airflow: Automating and monitoring ETL pipelines regularly to ensure up-to-date data.
+#### 2. [PT BNI Sekuritas](https://www.bnisekuritas.co.id/) | Data Analyst (Project-based Intership) | Yogyakarta `'Apr 2024' - 'Aug 2024'`
+   - Retrieve stock data from the Indonesia Stock Exchange using Python Yahoo Finance to obtain information
+related to the IDX Composite, LQ45, and Sharia Stocks
+   - Conduct Exploratory Data Analysis (EDA) on stock data using Python libraries such as Matplotlib, Seaborn,
+and Plotly to gain a comprehensive understanding of the stock market data.
+   - Develop a system for technical analysis focusing on volume spikes.
+   - Perform stock data forecasting using deep learning techniques.
+   - Create a dashboard showcasing the top 10 stock spikes in the IDX Composite using Looker Studio
 ---
 
 ### Languages and Tools:
