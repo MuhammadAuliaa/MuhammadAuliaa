@@ -80,18 +80,7 @@ arise.
 ---
 ### Connect with me:
 -
-[![Youtube](./img/youtube-light.svg)](https://www.youtube.com/@DeinonyCode/videos)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![Youtube]](https://www.youtube.com/@DeinonyCode/videos)
+[![Instagram]](https://www.instagram.com/muhammadauliaa_/)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
-
-
-
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+[![Linkedin]]([https://twitter.com/vincentwwidyan#gh-light-mode-only](https://www.linkedin.com/in/muhammad-aulia-6a7491215/))
