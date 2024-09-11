@@ -1,15 +1,13 @@
-# Hi there, I'm Muhammad Aulia - aka [deinony]([https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://www.youtube.com/@DeinonyCode/videos)) 👋
+# Hi there, I'm Muhammad Aulia - Aul [deinony]([https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ](https://www.youtube.com/@DeinonyCode/videos)) 👋
 ## About me:
-- 🔭 I’m currently working as Cyber Security
-- 🌱 I’m currently learning Python and Javascript
+- 🔭 I’m currently working as Data Engineer
 - 👯 I’m looking to collaborate as Data Automation and Analyst
-- 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: adheaulia9578@gmail.com
 
 ## Education:
 
-#### 1. [Universitas Gadjah Mada](https://www.ugm.ac.id) | Bachelor of Electrical Engineering | Yogyakarta `2016-2020`
+#### 1. [Universitas Teknologi Yogyakarta](https://uty.ac.id/) | Bachelor of Informatics | Yogyakarta `2020-2024`
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
