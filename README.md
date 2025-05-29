@@ -23,14 +23,16 @@ Learning, Object-Oriented Programming, and Information Technology Development.
    - Chief of Paskibraka
 
 ## Work Experience:
-#### 1. [PT Inovasi Niaga Integrasi (Waizly)](https://waizly.id/) | Data Engineer | Tangerang `Aug'2024 - Now`
+#### 1. [PT Nawa Teknologi Mandiri (Nawatech)](https://nawatech.co.id/) | Data Engineer | Tangerang `Feb'2025 - Now`
+#### 2. [PT Inovasi Niaga Integrasi (Waizly)](https://waizly.id/) | Data Engineer | Tangerang `Aug'2024 - Feb'2025`
    - ETL (Pentaho): Managing the Extract, Transform, Load process using Pentaho to ensure clean and ready-touse product data in the data warehouse.
    - PostgreSQL: Storing and managing product data in a structured and easily accessible database for analysis.
    - Database Designing: Designing optimal database schemas for efficient querying and data analysis of product
 warehouses.
    - Cloud AWS: Using AWS to securely manage and store data with scalability and integration.
    - Airflow: Automating and monitoring ETL pipelines regularly to ensure up-to-date data.
-#### 2. [PT BNI Sekuritas](https://www.bnisekuritas.co.id/) | Data Analyst (Project-based Intership) | Yogyakarta `'Apr 2024' - 'Aug 2024'`
+   - Cloud AWS: Using AWS to securely manage and store data with scalability and integration.
+#### 3. [PT BNI Sekuritas](https://www.bnisekuritas.co.id/) | Data Analyst (Project-based Intership) | Yogyakarta `'Apr 2024' - 'Aug 2024'`
    - Retrieve stock data from the Indonesia Stock Exchange using Python Yahoo Finance to obtain information
 related to the IDX Composite, LQ45, and Sharia Stocks
    - Conduct Exploratory Data Analysis (EDA) on stock data using Python libraries such as Matplotlib, Seaborn,
@@ -38,14 +40,14 @@ and Plotly to gain a comprehensive understanding of the stock market data.
    - Develop a system for technical analysis focusing on volume spikes.
    - Perform stock data forecasting using deep learning techniques.
    - Create a dashboard showcasing the top 10 stock spikes in the IDX Composite using Looker Studio.
-#### 3. [Universitas Teknologi Yogyakarta](https://uty.ac.id/) | Assistant Lecturer (Part-time) | Yogyakarta `'Feb 2023' - 'Jun 2024'`
+#### 4. [Universitas Teknologi Yogyakarta](https://uty.ac.id/) | Assistant Lecturer (Part-time) | Yogyakarta `'Feb 2023' - 'Jun 2024'`
    - Teaching assistant for the courses Big Data Analytics, Object-Oriented Programming, Information Technology
 Applications, Coding & Machine Learning, and Machine Learning
    - Assisting professors in preparing materials and practical sessions for related courses
    - Helping students learn about Big Data, Machine Learning, and Programming
    - Guiding students in applying data processing practices using RapidMiner and Microsoft Excel, as well as
 programming with Python and SQL.
-#### 4. [PT Kimia Farma](https://www.kimiafarma.co.id/) | Data Analyst (Project-based Virtual Intership) | Yogyakarta `'Jun 2022' - 'Sep 2022'`
+#### 5. [PT Kimia Farma](https://www.kimiafarma.co.id/) | Data Analyst (Project-based Virtual Intership) | Yogyakarta `'Jun 2022' - 'Sep 2022'`
    - Studying the concepts of data warehouse, data lake, and data mart, as well as their implementation in the
 business industry.
    - Studying the concepts of Database Management System (DBMS), Relational Database
@@ -55,7 +57,7 @@ Management System (RDBMS) using SQL.
    - Studying the use of Fields Operations and Complex Operations.
    - Creating an interactive dashboard for pharmaceutical company data in Indonesia using Google
 Data Studio.
-#### 5. [PT Carijamu](https://carijamu.id/produk?f=0&s=serbuk) | Data Engineer (Part-time) | Yogyakarta `'Jan 2021' - 'Mar 2023'`
+#### 6. [PT Carijamu](https://carijamu.id/produk?f=0&s=serbuk) | Data Engineer (Part-time) | Yogyakarta `'Jan 2021' - 'Mar 2023'`
    - Studying the structure and concepts of database systems in companies.
    - Creating a system to access the database and perform CRUD operations (Create, Read, Update, Delete)
 according to the application's needs.
