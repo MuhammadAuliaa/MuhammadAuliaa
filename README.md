@@ -24,6 +24,12 @@ Learning, Object-Oriented Programming, and Information Technology Development.
 
 ## Work Experience:
 #### 1. [PT Nawa Teknologi Mandiri (Nawatech)](https://nawatech.co.id/) | Data Engineer | Tangerang `Feb'2025 - Now`
+   - ETL (Airflow): Built and scheduled ETL pipelines using Apache Airflow to extract data from SQL and NoSQL sources, apply similarity matching using FAISS and ML models, and load into Oracle Database.
+   - Data Pipeline: Built and scheduled pipeline using AWS Glue Notebook to transform and load data from S3 bucket into PostgreSQL.
+   - Minio (Non-tabular Data Migration): Migrated large-scale non-tabular files from local servers to MinIO object storage using custom Python scripts for efficient data access and storage.
+   - Monitoring Fabric: Implemented monitoring systems to ensure data quality, track pipeline performance, and detect anomalies across distributed data sources.
+   - Crawling Enginee Apify: Developed and maintained crawlers using Apify to collect public data from multiple social media platforms for analysis and enrichment.
+   - Elasticsearch: Loaded logs and summary tracking data into Elasticsearch for real-time search, monitoring, and analytics.
 #### 2. [PT Inovasi Niaga Integrasi (Waizly)](https://waizly.id/) | Data Engineer | Tangerang `Aug'2024 - Feb'2025`
    - ETL (Pentaho): Managing the Extract, Transform, Load process using Pentaho to ensure clean and ready-touse product data in the data warehouse.
    - PostgreSQL: Storing and managing product data in a structured and easily accessible database for analysis.
@@ -66,6 +72,13 @@ according to the application's needs.
    - Managing database structure and optimizing database performance to meet application needs.
    - Performing maintenance and repairs on the database system, and resolving any potential issues that may
 arise.
+
+## License & Certification:
+### 1. Databricks Certified Data Engineer Associate 
+ diterbitkan: Jun 2025 Kadaluwarsa Jun 2027
+ ID kredensial 153425971
+ Link: [link](https://credentials.databricks.com/4e2999ad-662a-4318-bafb-afd14aaf8b81#acc.I1q2x4EA)
+    
 ---
 ### Connect with me:
 [Youtube](https://www.youtube.com/@DeinonyCode/videos)
