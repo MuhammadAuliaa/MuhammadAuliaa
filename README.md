@@ -73,11 +73,13 @@ according to the application's needs.
    - Performing maintenance and repairs on the database system, and resolving any potential issues that may
 arise.
 
-## License & Certification:
-### 1. Databricks Certified Data Engineer Associate 
- diterbitkan: Jun 2025 Kadaluwarsa Jun 2027
- ID kredensial 153425971
- Link: [link](https://credentials.databricks.com/4e2999ad-662a-4318-bafb-afd14aaf8b81#acc.I1q2x4EA)
+## 🏅 License & Certification
+
+### 📌 Databricks Certified Data Engineer Associate  
+**Diterbitkan:** Juni 2025  
+**Kadaluwarsa:** Juni 2027  
+**ID Kredensial:** 153425971  
+**Sertifikat:** [Lihat di sini](https://credentials.databricks.com/4e2999ad-662a-4318-bafb-afd14aaf8b81#acc.I1q2x4EA)
     
 ---
 ### Connect with me:
