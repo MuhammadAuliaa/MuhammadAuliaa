@@ -75,10 +75,9 @@ arise.
 
 ## 🏅 License & Certification
 
-### 📌 Databricks Certified Data Engineer Associate  
+### 1. Databricks Certified Data Engineer Associate ([Lihat di sini](https://credentials.databricks.com/4e2999ad-662a-4318-bafb-afd14aaf8b81#acc.I1q2x4EA))
 **Diterbitkan:** Juni 2025  
 **Kadaluwarsa:** Juni 2027
-**Sertifikat:** [Lihat di sini](https://credentials.databricks.com/4e2999ad-662a-4318-bafb-afd14aaf8b81#acc.I1q2x4EA)
 
 ### 📌 Microsoft Certified: Fabric Data Engineer Associate
 **Diterbitkan:** April 2025  
