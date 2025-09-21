@@ -23,7 +23,7 @@ Learning, Object-Oriented Programming, and Information Technology Development.
    - Chief of Paskibraka
 
 ## Work Experience:
-#### 1. [PT Nawa Teknologi Mandiri (Nawatech)](https://nawatech.co.id/) | Data Engineer | Tangerang `Feb'2025 - Now`
+#### 1. [PT Nawa Teknologi Mandiri (Nawatech)](https://www.nawatech.co/) | Data Engineer | Tangerang `Feb'2025 - Now`
    - ETL (Airflow): Built and scheduled ETL pipelines using Apache Airflow to extract data from SQL and NoSQL sources, apply similarity matching using FAISS and ML models, and load into Oracle Database.
    - Data Pipeline: Built and scheduled pipeline using AWS Glue Notebook to transform and load data from S3 bucket into PostgreSQL.
    - Minio (Non-tabular Data Migration): Migrated large-scale non-tabular files from local servers to MinIO object storage using custom Python scripts for efficient data access and storage.
@@ -79,22 +79,18 @@ arise.
 **Diterbitkan:** Juni 2025  
 **Kadaluwarsa:** Juni 2027
 
-### 📌 Microsoft Certified: Fabric Data Engineer Associate
+### 2. Microsoft Certified: Fabric Data Engineer Associate ([Lihat di sini](https://drive.google.com/file/d/1RuUFnq6DeHp83papKCXDxuKxapCySZOn/view))
 **Diterbitkan:** April 2025  
 **Kadaluwarsa:** April 2026
-**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/1RuUFnq6DeHp83papKCXDxuKxapCySZOn/view)
 
-### 📌 Program Kreativitas Mahasiswa-Karsa Cipta (PKM-KC)
-**Diterbitkan:** November 2023  
-**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/14cfnjimgRelIiY5IA-kB0lDbr0vpB94O/view)
+### 3. Program Kreativitas Mahasiswa-Karsa Cipta ([Lihat di sini](https://drive.google.com/file/d/14cfnjimgRelIiY5IA-kB0lDbr0vpB94O/view))
+**Diterbitkan:** November 2023
 
-### 📌 Surat Pencatatan Ciptaan (Analisis Sentimen Tokopedia)
+### 4. Surat Pencatatan Ciptaan (Analisis Sentimen Tokopedia) -> ([Lihat di sini](https://drive.google.com/file/d/1pTNBG2cR_fwJNDcqvBg3FpIuxzm7QjaW/view))
 **Diterbitkan:** Jul 2023  
-**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/1pTNBG2cR_fwJNDcqvBg3FpIuxzm7QjaW/view)
 
-### 📌 Surat Pencatatan Ciptaan (Enkripsi Transaksi Saham)
-**Diterbitkan:** Jul 2023  
-**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/1m4eHxbo1tF26T3jA8SH_6bAQBrCNSVtu/view)
+### 5. Surat Pencatatan Ciptaan (Enkripsi Transaksi Saham) -> ([Lihat di sini](https://drive.google.com/file/d/1m4eHxbo1tF26T3jA8SH_6bAQBrCNSVtu/view))
+**Diterbitkan:** Jul 2023
     
 ---
 ### Connect with me:
