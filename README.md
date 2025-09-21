@@ -77,9 +77,25 @@ arise.
 
 ### 📌 Databricks Certified Data Engineer Associate  
 **Diterbitkan:** Juni 2025  
-**Kadaluwarsa:** Juni 2027  
-**ID Kredensial:** 153425971  
+**Kadaluwarsa:** Juni 2027
 **Sertifikat:** [Lihat di sini](https://credentials.databricks.com/4e2999ad-662a-4318-bafb-afd14aaf8b81#acc.I1q2x4EA)
+
+### 📌 Microsoft Certified: Fabric Data Engineer Associate
+**Diterbitkan:** April 2025  
+**Kadaluwarsa:** April 2026
+**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/1RuUFnq6DeHp83papKCXDxuKxapCySZOn/view)
+
+### 📌 Program Kreativitas Mahasiswa-Karsa Cipta (PKM-KC)
+**Diterbitkan:** November 2023  
+**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/14cfnjimgRelIiY5IA-kB0lDbr0vpB94O/view)
+
+### 📌 Surat Pencatatan Ciptaan (Analisis Sentimen Tokopedia)
+**Diterbitkan:** Jul 2023  
+**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/1pTNBG2cR_fwJNDcqvBg3FpIuxzm7QjaW/view)
+
+### 📌 Surat Pencatatan Ciptaan (Enkripsi Transaksi Saham)
+**Diterbitkan:** Jul 2023  
+**Sertifikat:** [Lihat di sini](https://drive.google.com/file/d/1m4eHxbo1tF26T3jA8SH_6bAQBrCNSVtu/view)
     
 ---
 ### Connect with me:
