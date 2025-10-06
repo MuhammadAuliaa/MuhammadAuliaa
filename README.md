@@ -5,23 +5,6 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: adheaulia9578@gmail.com
 
-## Education:
-
-#### 1. [Universitas Teknologi Yogyakarta](https://uty.ac.id/) | Bachelor of Informatics | Yogyakarta `2020-2024`
-   - Relevant Courses: Data Science, Data Warehouse & Data Mining, Coding & Machine Learning, Text Processing,
-Neural Networks & Deep Learning, Digital Image Processing, Soft Computing, AI Application development.
-   - Completing the Informatics Capstone Project by creating a program “Analisis Sentiment Review Product
-Online Shop Menggunakan Algoritma Naive Bayes Classifier”.
-   - Publishing a scientific paper titled with the research titled “Analisis Perbandingan Algoritma SVM, Naïve
-Bayes, dan Perceptron untuk Analisis Sentimen Ulasan Produk Tokopedia”.
-   - Completing the Final Project by creating a program “Analisis Sentimen Ulasan Produk Tokopedia
-Menggunakan Algoritma Naïve Bayes Classifier : Studi Kasus Toko Pengrajin.com”.
-   - Participating in the development of Copyright (Intellectual Property) projects.
-   - Participating as a teaching assistant for courses in Big Data Analytics, Coding & Machine Learning, Machine
-Learning, Object-Oriented Programming, and Information Technology Development.
- #### 2. [SMA N 1 Mempawah Hilir](https://sman1mpw.sch.id/) | IPS | Mempawah `2017-2020`
-   - Chief of Paskibraka
-
 ## Work Experience:
 #### 1. [PT Nawa Teknologi Mandiri (Nawatech)](https://www.nawatech.co/) | Data Engineer | Tangerang `Feb'2025 - Now`
    - ETL (Airflow): Built and scheduled ETL pipelines using Apache Airflow to extract data from SQL and NoSQL sources, apply similarity matching using FAISS and ML models, and load into Oracle Database.
@@ -91,6 +74,23 @@ arise.
 
 ### 5. Surat Pencatatan Ciptaan (Enkripsi Transaksi Saham) -> ([Lihat di sini](https://drive.google.com/file/d/1m4eHxbo1tF26T3jA8SH_6bAQBrCNSVtu/view))
 **Diterbitkan:** Jul 2023
+
+## Education:
+
+#### 1. [Universitas Teknologi Yogyakarta](https://uty.ac.id/) | Bachelor of Informatics | Yogyakarta `2020-2024`
+   - Relevant Courses: Data Science, Data Warehouse & Data Mining, Coding & Machine Learning, Text Processing,
+Neural Networks & Deep Learning, Digital Image Processing, Soft Computing, AI Application development.
+   - Completing the Informatics Capstone Project by creating a program “Analisis Sentiment Review Product
+Online Shop Menggunakan Algoritma Naive Bayes Classifier”.
+   - Publishing a scientific paper titled with the research titled “Analisis Perbandingan Algoritma SVM, Naïve
+Bayes, dan Perceptron untuk Analisis Sentimen Ulasan Produk Tokopedia”.
+   - Completing the Final Project by creating a program “Analisis Sentimen Ulasan Produk Tokopedia
+Menggunakan Algoritma Naïve Bayes Classifier : Studi Kasus Toko Pengrajin.com”.
+   - Participating in the development of Copyright (Intellectual Property) projects.
+   - Participating as a teaching assistant for courses in Big Data Analytics, Coding & Machine Learning, Machine
+Learning, Object-Oriented Programming, and Information Technology Development.
+ #### 2. [SMA N 1 Mempawah Hilir](https://sman1mpw.sch.id/) | IPS | Mempawah `2017-2020`
+   - Chief of Paskibraka
     
 ---
 ### Connect with me:
